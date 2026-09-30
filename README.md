@@ -1,8 +1,8 @@
-\# Exercício 13 - Empréstimo
+# Exercício 13 - Empréstimo
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa solicita o salário bruto e o valor da prestação de um emprésti
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém o salário bruto e o valor da prestação do empréstimo, info
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa informa se o empréstimo pode ou não ser concedido, considerando o l
 
 
 
-\## Autor
+## Autor
 
 
 
